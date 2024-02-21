@@ -1,0 +1,235 @@
+body {
+    width: 1440px;
+    height: 2689px;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    position: relative;
+}
+.header {
+    width: 940px;
+    height: 159px;
+    top: 163px;
+    left: 250px;
+    position: absolute;
+}
+.header1 {
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 50px;
+    color: rgb(46, 46, 46);
+    text-align: center;
+    width: 498px;
+    height: 51px;
+    top: -7px;
+    margin-top: 0px;
+    left: 221px;
+    position: absolute;
+    line-height: 51px;
+    letter-spacing: 2px;
+}
+.header2 {
+    width: 504px;
+    height: 20px;
+    margin-top: 0px;
+    top: 64px;
+    left: 218px;
+    position: absolute;
+    font-family: 'Oxygen';
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+    color: rgba(46, 46, 46, 0.63);
+    line-height: 20px;
+}
+.box {
+    top: 360px;
+    border-radius: 3px;
+    width: 1440px;
+    height: 534px;
+    position: absolute;
+}
+.image {
+    border-radius: 3px;
+    width: 1440px;
+    height: 534px;
+    position: absolute;
+    object-fit: cover;
+}
+.top-line {
+    width: 940px;
+    height: 40px;
+    top: 17px;
+    left: 250px;
+    position: absolute;
+    color: rgb(46, 46, 46);
+}
+.escape1 {
+    width: 92px;
+    height: 26px;
+    top: 3px;
+    margin-top: 0px;
+    position: absolute;  
+}
+.top-menu {
+    width: 376.61px;
+    height: 40px;
+    left: 563.39px;
+    position: absolute;
+    font-family: 'Oxygen';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.6px;
+}
+.home1 {
+    width: 39px;
+    height: 20px;
+    top: 10px;
+    left: 19.61px;
+    position: absolute;
+    margin-top: 0px;
+}
+.categories-box {
+    width: 118px;
+    height: 40px;
+    left: 79.61px;
+    position: absolute;
+}
+.categories-text1 {
+    width: 78px;
+    height: 20px;
+    top: 10px;
+    left: 20px;
+    position: absolute;
+    margin-top: 0px;
+}
+.about-box {
+    width: 81px;
+    height: 40px;
+    left: 197.61px;
+    position: absolute;
+}
+.about-text1 {
+    width: 41px;
+    height: 20px;
+    top: 10px;
+    left: 20px;
+    position: absolute;
+    font-size: 11px;
+    margin-top: 0px;
+}
+.contact-box {
+    width: 98px;
+    height: 40px;
+    left: 278.61px;
+    position: absolute;
+}
+.contact-text1 {
+    width: 58px;
+    height: 20px;
+    top: 10px;
+    left: 20px;
+    position: absolute;
+    margin-top: 0px;
+}
+.main {
+    width: 1440px;
+    height: 1726px;
+    top: 894px;
+    position: absolute;
+    background-color: rgb(247, 247, 247);
+}
+.main-text {
+    width: 960px;
+    height: 1431px;
+    top: 140px;
+    left: 240px;
+    position: absolute;
+    margin-top: 0px;
+    font-family: 'Oxygen';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    color: rgb(16, 19, 21);
+}
+.bottom-line {
+    position: relative;
+    width: 1440px;
+    height: 89px;
+    top: 2600px;
+}
+.image2 {
+    width: 1440px;
+    height: 89px;
+    object-fit: cover;
+    position: absolute;
+    z-index: 1;
+}
+.rectangle {
+    width: 1440px;
+    height: 89px;
+    background: rgba(35, 47, 56, 0.6);
+    position: absolute;
+    z-index: 2;
+}
+.bottom-line2 {
+    width: 960px;
+    height: 34px;
+    top: 28px;
+    left: 240px;
+    position: absolute;
+    z-index: 3;
+}
+.escape2 {
+    width: 92px;
+    height: 26px;
+    top: 3px;
+    left: 10px;
+    position: absolute;
+    margin-top: 0px;
+}
+.bottom-menu {
+    width: 639.98px;
+    height: 32px;
+    left: 319.98px;
+    position: absolute;
+    font-family: 'Oxygen';
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 1px;
+    text-align: right;
+    color: rgba(255, 255, 255, 0.6);
+}
+.home2 {
+    width: 37px;
+    height: 26px;
+    top: 3px;
+    left: 358.02px;
+    position: absolute;
+    margin-top: 0px;
+}
+.categories2 {
+    width: 76px;
+    height: 26px;
+    top: 3px;
+    left: 415.02px;
+    position: absolute;
+    margin-top: 0px;
+}
+.about2 {
+    width: 42px;
+    height: 26px;
+    top: 3px;
+    left: 511.02px;
+    position: absolute;
+    margin-top: 0px;
+}
+.contact2 {
+    width: 57px;
+    height: 26px;
+    top: 3px;
+    left: 573.02px;
+    position: absolute;
+    margin-top: 0px;
+}
